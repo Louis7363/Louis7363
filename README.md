@@ -26,8 +26,6 @@
 
 ## 🎯 À Propos
 
-> *"Chaotique, créatif, et toujours en train de coder quelque chose de fou"*
-
 Étudiant en **MPI*** à la **Martinière Monplaisir**
 
 ---
@@ -59,8 +57,6 @@
 │  En Train d'Apprendre & Maîtriser  │
 └─────────────────────────────────┘
 ```
-
-> Les langages et technologies que j'explore pour créer l'impossible
 
 </div>
 
