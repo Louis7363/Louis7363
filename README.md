@@ -32,7 +32,7 @@
 
 ## 🏆 Hall of Fame
 
-### 🎨 Prix Art et Informatique - Trophées NSI 2025
+### 🎨 Prix Art et Informatique, académie de Clermont-Ferrand - Trophées NSI 2025
 
 <div align="center">
 
