@@ -1,14 +1,15 @@
 <div align="center">
 
 ```
-    ██╗     ███╗   ███╗ █████╗ ███████╗████████╗███████╗██████╗ 
-    ██║     ████╗ ████║██╔══██╗╚════██║╚══██╔══╝██╔════╝██╔══██╗
-    ██║     ██╔████╔██║███████║    ██╔╝   ██║   █████╗  ██████╔╝
-    ██║     ██║╚██╔╝██║██╔══██║   ██╔╝    ██║   ██╔══╝  ██╔══██╗
-    ███████╗██║ ╚═╝ ██║██║  ██║   ██║     ██║   ███████╗██║  ██║
-    ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝     ╚═╝   ╚══════╝╚═╝  ╚═╝
+    ██╗      ██████╗ ██╗   ██╗██╗███████╗
+    ██║     ██╔═══██╗██║   ██║██║██╔════╝
+    ██║     ██║   ██║██║   ██║██║███████╗
+    ██║     ██║   ██║██║   ██║██║╚════██║
+    ███████╗╚██████╔╝╚██████╔╝██║███████║
+    ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝
 ```
 
+### 🌌 Welcome to the Chaos 🌌
 
 </div>
 
@@ -29,7 +30,6 @@
 > *"Chaotique, créatif, et toujours en train de coder quelque chose de fou"*
 
 Étudiant en **MPI*** à la **Martinière Monplaisir**
-
 
 ---
 
@@ -81,9 +81,6 @@
     💫 💫 💫
 ```
 
-<!-- Marqueur visuel animé -->
-<img src="https://raw.githubusercontent.com/Louis7363/Louis7363/main/assets/neon.gif" alt="Neon Energy" width="300">
-
 </div>
 
 ---
@@ -92,19 +89,18 @@
 
 <div align="center">
 
-[![GitHub Stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=Louis7363&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8B0000&text_color=E0E0E0)](https://github.com/Louis7363)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Louis7363&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8B0000&text_color=E0E0E0)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis7363&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=E0E0E0)](https://github.com/Louis7363)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis7363&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=E0E0E0)
 
 </div>
-
----
 
 ---
 
 ## 🔥 En Ce Moment
 
 - 🎓 MPI* à la Martinière Monplaisir
+- ⚡ Créant l'impossible
 
 ---
 
