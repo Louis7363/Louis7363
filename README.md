@@ -80,13 +80,12 @@
 
 ---
 
-## 🎮 Stats en Temps Réel
+## 📊 Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Louis7363&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=8B0000&text_color=E0E0E0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis7363&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=E0E0E0)
+![GitHub followers](https://img.shields.io/github/followers/Louis7363?style=flat-square&color=FF006E&label=Followers)
+![GitHub User's stars](https://img.shields.io/github/stars/Louis7363?style=flat-square&color=8B0000&label=Total%20Stars)
 
 </div>
 
