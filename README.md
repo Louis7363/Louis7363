@@ -28,7 +28,7 @@
 
 > *"Chaotique, créatif, et toujours en train de coder quelque chose de fou"*
 
-Étudiant en **MPI*** à la **Martinière Monplaisir**, je construis des projets qui défient la logique. Passionné par l'informatique et l'art, je transforme les idées les plus folles en réalité numérique.
+Étudiant en **MPI*** à la **Martinière Monplaisir**
 
 
 ---
