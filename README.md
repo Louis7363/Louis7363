@@ -31,9 +31,6 @@
 
 Étudiant en **MPI*** à la **Martinière Monplaisir**, je construis des projets qui défient la logique. Passionné par l'informatique et l'art, je transforme les idées les plus folles en réalité numérique.
 
-```
-          ⚡ Code + Créativité = Explosion ⚡
-```
 
 ---
 
@@ -50,9 +47,6 @@
 █ PRIX REMPORTÉ EN 2025 ✨ █
 █████████████████████████████
 ```
-
-Le projet qui a fait gagner le prix art & informatique des Trophées NSI.
-Où la créativité rencontre l'ingénierie. Où les limites n'existent pas.
 
 </div>
 
@@ -107,35 +101,15 @@ Où la créativité rencontre l'ingénierie. Où les limites n'existent pas.
 
 ---
 
-## 🌀 Philosophie de Projet
-
-<div align="center">
-
-```
-Pas de limites
-Pas de règles
-Juste du code
-et de l'art
-```
-
-Chaque projet est une explosion de créativité. Chaque ligne de code est un coup de pinceau.
-
-</div>
-
 ---
 
 ## 🔥 En Ce Moment
 
 - 🎓 MPI* à la Martinière Monplaisir
-- 💭 Réfléchissant à mon prochain chaos créatif
-- 🎨 Fusionnant art et informatique
-- ⚡ Préparant les prochains projets fous
 
 ---
 
 <div align="center">
-
-### 🌙 *"In a world of order, be the chaos"* 🌙
 
 ```
 ████████████████████████████████
