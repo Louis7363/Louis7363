@@ -62,24 +62,6 @@
 
 ---
 
-## 🌠 Animations & Effets
-
-<div align="center">
-
-### ✨ Énergie Créative en Action ✨
-
-```
-    💫 💫 💫
-  💫       💫
-💫   CODE   💫
-  💫       💫
-    💫 💫 💫
-```
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
