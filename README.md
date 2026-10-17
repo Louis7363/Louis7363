@@ -76,7 +76,6 @@
 ## 🔥 En Ce Moment
 
 - 🎓 MPI* à la Martinière Monplaisir
-- ⚡ Créant l'impossible
 
 ---
 
@@ -96,6 +95,6 @@
 
 <div align="center">
 
-**© 2025 Louis7363 | Crafted with chaos and code** ✨
+**© 2025 Louis7363
 
 </div>
