@@ -16,7 +16,7 @@
 
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-Building_Something_Wild-FF006E?style=for-the-badge&logo=firebase&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Building_Something_Cool-FF006E?style=for-the-badge&logo=firebase&logoColor=white)
 ![School](https://img.shields.io/badge/Martinière_Monplaisir-MPI*-8B0000?style=for-the-badge&logo=school&logoColor=white)
 ![Energy](https://img.shields.io/badge/Energy-MAXIMUM-FFBE0B?style=for-the-badge&logo=lightning&logoColor=black)
 
